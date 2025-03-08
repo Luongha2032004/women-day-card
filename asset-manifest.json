@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/women-day-card/static/css/main.d1f68042.css",
+    "main.js": "/women-day-card/static/js/main.2810fe02.js",
+    "static/js/453.9444bf89.chunk.js": "/women-day-card/static/js/453.9444bf89.chunk.js",
+    "index.html": "/women-day-card/index.html",
+    "main.d1f68042.css.map": "/women-day-card/static/css/main.d1f68042.css.map",
+    "main.2810fe02.js.map": "/women-day-card/static/js/main.2810fe02.js.map",
+    "453.9444bf89.chunk.js.map": "/women-day-card/static/js/453.9444bf89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f68042.css",
+    "static/js/main.2810fe02.js"
+  ]
+}
